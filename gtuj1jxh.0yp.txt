@@ -1,0 +1,19 @@
+﻿Revert "Initial commit for Programming Assignment 2"
+
+This reverts commit 27987823fcf81d46a5e2186391addd87c079b879.
+
+Conflicts:
+	README.md
+	cachematrix.R
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# You are currently reverting commit 2798782.
+#
+# Changes to be committed:
+#	modified:   cachematrix.R
+#
+
